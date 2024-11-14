@@ -1,2 +1,2 @@
 # MTDisasterDictionary
-This is a project to build and curate a structured list of the many disasters that Donald Trump and his nitwit minions are almost certain to create. 
+This is an ongoing project to build and continuously curate a structured list of the disasters that Donald Trump and his nitwit minions guaranteed to create. I expect there to be so many of them that no one will be able to tell the players without a program. This will be a program.
